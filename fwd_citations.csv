@@ -1,4 +1,4 @@
-﻿publication_number,my_assignee,Fwd_citing_publication_number,assignee_of citing patent
+﻿pub_num,my_assignee,fwd_pub_num,assignee
 US7777777B2,Cisco,US20090238083A1,Fujitsu 
 US7777777B2,Cisco,US8872880B1,Juniper Networks
 US7777777B2,Cisco LLC,US20100220195A1,Cisco Inc.
